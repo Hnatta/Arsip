@@ -1,4 +1,4 @@
-{note: "Cara terbaik tuk melupakan masa lalu adalah bukan dengan menghindari atau menyesalinya, namun dengan menerima dan memaafkanya.",},
+[{note: "Cara terbaik tuk melupakan masa lalu adalah bukan dengan menghindari atau menyesalinya, namun dengan menerima dan memaafkanya.",},
 
   {note:"Jika kita biarkan masa lalu mengusik hidup kita saat ini, tentu kita tak akan pernah bisa berikan yg terbaik tuk dapat masa depan yg baik.",},
 
@@ -33,3 +33,4 @@
   {note: "Tidak ada hal yang kebetulan diperjalanan hidup ini semuanya sudah terencana.",  },
 
   {note:"Taukah kau aku bisa jadi pelangi untukmu tapi aku juga bisa jadi hujan bahkan badai sekalipun jika kau sakiti .",  },
+];
